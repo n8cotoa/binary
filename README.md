@@ -1,29 +1,17 @@
-# _Pig Latin Generator page_
+# Number to Binary Translator
 
-#### _Exercise for building a user Pig Latin Generator using JavaScript, bootstrap, and JQuery, 6/6/2018_
+#### Exercise for building a user Binary Translator using JavaScript, bootstrap, and JQuery, 6/6/2018
 
-#### By _**Nate Cottle and William Swanson**_
+#### By **Nate Cottle and William Swanson**
 
 ## Description
 
-_A web-based Pig Latin Generator page_
+A web-based Binary Translator
 
 ## Setup/Installation Requirements
 
-* _computer_
-* _the internet_
-* _hands_
-* _power outlet_
-* _[Link to Will's repo] (https://github.com/wvw999/piglatin)_
-* _[Link to Nate's repo] (https://github.com/n8cotoa/piglatin)_
-* _[Link to Will's live site] (https://wvw999.github.io/piglatin/)_
-* _[Link to Nate's live site] (https://n8cotoa.github.io/piglatin/)_
-
-_more instructions soon_
-
-## Known Bugs
-
-_none yet_
+1. Clone the repository
+1. Open html file in browser
 
 ## Specs list
 
